@@ -1,4 +1,4 @@
- Analise_exploratoriaAnálise Exploratória de Dados com Python
+Análise Exploratória de Dados com Python
 
 Projeto de análise de dados utilizando Python, com foco em manipulação, agregação e visualização de dados de vendas.
 
