@@ -25,3 +25,5 @@ Pandas
 Matplotlib
 
 Virtual Environment (venv)
+
+refazer!
