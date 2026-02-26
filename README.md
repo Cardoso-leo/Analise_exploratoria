@@ -20,7 +20,7 @@ Tecnologias Utilizadas
 
 Python 3.x
 
-Pandas
+Pandas.py
 
 Matplotlib
 
