@@ -5,7 +5,7 @@ df = pd.read_csv('../data/vendas.csv')
 df['data'] = pd.to_datetime(df['data'])
 df['faturamento'] = df['valor'] * df['quantidade']
 
-print(' VISÃO GERAL')
+print('GERAL')
 print(df.head(), '\n')
 
 print(' Faturamento total:')
@@ -23,3 +23,4 @@ plt.xlabel('Categoria')
 plt.ylabel('Faturamento (R$)')
 plt.tight_layout()
 plt.show()
+
